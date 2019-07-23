@@ -1,5 +1,7 @@
 'use strict';
 const path = require('path');
+const fs = require('hexo-fs');
+const Hexo = require('hexo');
 
 const MathJax = require('../src/main');
 
